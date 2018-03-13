@@ -1,0 +1,2 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+--Porque nos ayuda a ver todo lo que hemos hecho a versiones pasadas y comparar si lo hicimos mal o saber que modificar 
